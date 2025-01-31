@@ -1,4 +1,4 @@
-## The Advanced University Library System is a cutting-edge platform designed to streamline book management, borrowing, and administrative control for universities. Built with Next.js, TypeScript, and PostgreSQL, this system offers a seamless and user-friendly experience for both students and administrators.
+# The Advanced University Library System is a cutting-edge platform designed to streamline book management, borrowing, and administrative control for universities. Built with Next.js, TypeScript, and PostgreSQL, this system offers a seamless and user-friendly experience for both students and administrators.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
